@@ -1,0 +1,6 @@
+points
+-------------------------------------------------------
+- version controll 
+- not a colab stuff
+- man <comand-name> - to get manual of the comand
+
